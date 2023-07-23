@@ -1,0 +1,82 @@
+{
+    "thirdResList": [
+        {
+            "id": 1,
+            "title": "量子",
+            "baseUri": "https://cj.lziapi.com",
+            "apiUrl": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "level": 1,
+            "updateDate": "2021-08-29",
+            "subtitle": "免解析，有跑马广告"
+        },
+        {
+            "id": 2,
+            "title": "图图解析",
+            "baseUri": "http://www.languotv.com",
+            "apiUrl": "https://ys.md214.cn/api.php/provide/vod/at/xml",
+            "type": 4,
+            "isJx": true,
+            "level": 6,
+            "updateDate": "2020-02-10",
+            "subtitle": "官方视频解析"
+        },
+        {
+            "id": 3,
+            "title": "非凡",
+            "baseUri": "https://cj.lziapi.com",
+            "apiUrl": " http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "level": 1,
+            "updateDate": "2021-08-29",
+            "subtitle": "免解析，有跑马广告"
+        },
+        {
+            "id": 4,
+            "title": "忆梦解析",
+            "baseUri": "http://www.languotv.com",
+            "apiUrl": "http://anltv.cn/api.php/provide/vod/from/qiyi/at/xml/",
+            "type": 4,
+            "isJx": true,
+            "level": 6,
+            "updateDate": "2020-02-10",
+            "subtitle": "官方视频解析"
+        }
+    ],
+    "jxApiList": [
+        {
+            "jxUrl": "https://www.yemu.xyz/?url="
+        },
+        {
+            "jxUrl": "https://jx.xmflv.com/?url="
+        },
+        {
+            "jxUrl": "https://jx.777jiexi.com/player/?url="
+        },
+        {
+            "jxUrl": "https://yun.nxflv.com/?url="
+        },
+        {
+            "jxUrl": "https://dm.xmflv.com:4433/?url="
+        },
+        {
+            "jxUrl": "http://api.wpsseo.cn/?v="
+        },
+        {
+            "jxUrl": "https://jx.zhanlangbu.com/?url="
+        },
+        {
+            "jxUrl": "https://www.playm3u8.cn/jiexi.php?url="
+        },
+        {
+            "jxUrl": "https://jx.aidouer.net/?url="
+        },
+        {
+            "jxUrl": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "jxUrl": "https://www.8090.la/8090/?url="
+        },
+        {
+            "jxUrl": "https://vip.swuii.top/?url="
+        }
+    ]
+}
